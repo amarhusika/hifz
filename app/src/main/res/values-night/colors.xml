@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tamna tema: čista crna pozadina (AMOLED, štedi bateriju) -->
+    <color name="bg">#000000</color>
+    <color name="card">#111316</color>
+    <color name="stroke">#1D2026</color>
+    <color name="text">#F5F5F5</color>
+    <color name="text2">#9AA1AC</color>
+    <color name="track">#23272E</color>
+    <color name="blue">#5B9BFF</color>
+    <color name="blue_soft">#2C4C80</color>
+    <color name="on_blue">#06101F</color>
+    <color name="green">#8AB8FF</color> <!-- "završeno": svjetlija plava -->
+    <color name="counter_bg">#000000</color>
+    <color name="scrim">#99000000</color>
+    <color name="error">#F87171</color>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Svijetla tema: whitesmoke / plava / siva -->
+    <color name="bg">#F5F5F5</color>
+    <color name="card">#FFFFFF</color>
+    <color name="stroke">#E8EAEE</color>
+    <color name="text">#1C2433</color>
+    <color name="text2">#6B7280</color>
+    <color name="track">#E3E6EB</color>
+    <color name="blue">#2563EB</color>
+    <color name="blue_soft">#9DBEF7</color>
+    <color name="on_blue">#FFFFFF</color>
+    <color name="green">#1D4ED8</color> <!-- "završeno": tamnija plava -->
+    <color name="counter_bg">#F5F5F5</color>
+    <color name="scrim">#40000000</color>
+    <color name="error">#DC2626</color>
+</resources>
